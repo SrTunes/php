@@ -1,5 +1,7 @@
 <?php
 
-    echo "Olá mundo!";
+    echo "Olá mundos!";
+
+    echo "Olá HCODE.";
 
 ?>
